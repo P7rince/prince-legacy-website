@@ -1,0 +1,29 @@
+PRINCE LEGACY WEBSITE - LINKS & INFO
+=====================================
+
+🔗 LIVE WEBSITE (GitHub Pages):
+https://P7rince.github.io/prince-legacy-website/
+
+🖥️ LOCAL DEVELOPMENT:
+http://localhost:5173/prince-legacy-website/
+
+📂 GITHUB REPOSITORY:
+https://github.com/P7rince/prince-legacy-website
+
+📁 PROJECT FOLDER:
+C:\Users\PRINCE\Laparada Front End project\websiteformoney
+
+📧 CONTACT INFO:
+Email: princelegacycreations@gmail.com
+Phone: 067 937 0938 | 081 098 1471
+Instagram: @prince_legacy_creations
+
+✅ TO RUN LOCALLY:
+1. Open PowerShell
+2. cd "C:\Users\PRINCE\Laparada Front End project\websiteformoney"
+3. npm run dev
+4. Go to: http://localhost:5173/prince-legacy-website/
+
+📦 TO DEPLOY:
+npm run build
+(Files go to dist/ folder)
